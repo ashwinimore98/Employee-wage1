@@ -1,0 +1,13 @@
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.exe
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.deps.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\bin\Debug\netcoreapp3.1\wages for month.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages for month\obj\Debug\netcoreapp3.1\wages for month.genruntimeconfig.cache
