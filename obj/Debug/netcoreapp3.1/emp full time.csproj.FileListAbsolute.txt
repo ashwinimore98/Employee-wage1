@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.exe
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.deps.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\bin\Debug\netcoreapp3.1\emp full time.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.genruntimeconfig.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp full time\obj\Debug\netcoreapp3.1\emp full time.csproj.AssemblyReference.cache
