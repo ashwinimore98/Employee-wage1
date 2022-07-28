@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.exe
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.deps.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\bin\Debug\netcoreapp3.1\emp is pre or ab.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp is pre or ab\obj\Debug\netcoreapp3.1\emp is pre or ab.genruntimeconfig.cache
