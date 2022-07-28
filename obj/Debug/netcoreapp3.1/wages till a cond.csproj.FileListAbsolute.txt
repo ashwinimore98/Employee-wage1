@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.exe
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.deps.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\bin\Debug\netcoreapp3.1\wages till a cond.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\wages till a cond\obj\Debug\netcoreapp3.1\wages till a cond.genruntimeconfig.cache
