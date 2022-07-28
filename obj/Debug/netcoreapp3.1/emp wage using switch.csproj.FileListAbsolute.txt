@@ -1,0 +1,14 @@
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.exe
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.deps.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\bin\Debug\netcoreapp3.1\emp wage using switch.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.dll
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.pdb
+C:\Users\morea\OneDrive\Desktop\Employee Wage\emp wage using switch\obj\Debug\netcoreapp3.1\emp wage using switch.genruntimeconfig.cache
